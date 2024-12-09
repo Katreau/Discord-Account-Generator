@@ -1,5 +1,5 @@
 # Discord Account Generator
-This script is designed to generate Discord accounts automatically. It uses a set of predefined parameters to create accounts with random usernames, emails, and passwords. The script does not require an API key for solving captchas, as it handles captcha solving internally. Please note that using this script may violate Discord's Terms of Service, and you should proceed with caution and responsibility.
+This script generates Discord accounts automatically with random usernames, emails, and passwords, handling captcha solving internally without an API key. Use at your own risk, as it may violate Discord's Terms of Service.
 ---
 For start the script, please start the <code>install.bat</code> OR do <code>pip install -r requirements.txt</code> and do <code>python script.py</code>
 
